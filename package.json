@@ -1,0 +1,23 @@
+{
+  "name": "netojocelino",
+  "version": "1.0.0",
+  "description": "About me",
+  "main": "./bin/index.js",
+  "type": "module",
+  "bin": {
+    "netojocelino": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netojocelino/jocelino.js.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Neto Jocelino",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
